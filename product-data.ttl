@@ -1,0 +1,47 @@
+@prefix : <http://example.org/ontology#> .
+@prefix ex: <http://example.org/data#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+# Danh mục
+ex:Electronics a :Category ;
+    :hasName "Điện tử" ;
+    rdfs:label "Điện tử"@vi .
+
+ex:Clothing a :Category ;
+    :hasName "Thời trang" ;
+    rdfs:label "Thời trang"@vi .
+
+# Thương hiệu
+ex:Apple a :Brand ;
+    :hasName "Apple" ;
+    rdfs:label "Apple"@vi .
+
+ex:Samsung a :Brand ;
+    :hasName "Samsung" ;
+    rdfs:label "Samsung"@vi .
+
+ex:Nike a :Brand ;
+    :hasName "Nike" ;
+    rdfs:label "Nike"@vi .
+
+# Sản phẩm
+ex:iPhone13 a :Product ;
+    :hasName "iPhone 13" ;
+    :hasPrice 999.99 ;
+    :belongsToCategory ex:Electronics ;
+    :producedBy ex:Apple ;
+    rdfs:label "iPhone 13"@vi .
+
+ex:GalaxyS22 a :Product ;
+    :hasName "Galaxy S22" ;
+    :hasPrice 899.99 ;
+    :belongsToCategory ex:Electronics ;
+    :producedBy ex:Samsung ;
+    rdfs:label "Galaxy S22"@vi .
+
+ex:AirMax a :Product ;
+    :hasName "Nike Air Max" ;
+    :hasPrice 120.50 ;
+    :belongsToCategory ex:Clothing ;
+    :producedBy ex:Nike ;
+    rdfs:label "Nike Air Max"@vi .
