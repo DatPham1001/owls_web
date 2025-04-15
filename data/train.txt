@@ -1,0 +1,15 @@
+Tôi O
+muốn O
+mua O
+điện thoại PRODUCT
+dưới COMPARE
+200 B-PRICE
+đô CURRENCY
+
+Tìm O
+máy PRODUCT
+lạnh I-PRODUCT
+giá O
+trên B-COMPARE
+10 B-PRICE
+triệu I-PRICE

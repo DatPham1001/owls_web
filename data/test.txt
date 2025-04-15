@@ -1,0 +1,178 @@
+Tôi O
+muốn O
+mua O
+điện B-PRODUCT
+thoại I-PRODUCT
+dưới B-COMPARE
+200 B-PRICE
+đô I-PRICE
+
+Tìm O
+máy B-PRODUCT
+lạnh I-PRODUCT
+giá O
+trên B-COMPARE
+10 B-PRICE
+triệu I-PRICE
+
+Có O
+tủ B-PRODUCT
+lạnh I-PRODUCT
+nào O
+dưới B-COMPARE
+5 B-PRICE
+triệu I-PRICE
+không O
+
+Tôi O
+cần O
+một O
+laptop B-PRODUCT
+trên B-COMPARE
+15 B-PRICE
+triệu I-PRICE
+
+Cho O
+hỏi O
+máy B-PRODUCT
+giặt I-PRODUCT
+dưới B-COMPARE
+300 B-PRICE
+đô I-PRICE
+có O
+không O
+
+Tìm O
+máy B-PRODUCT
+tính I-PRODUCT
+bảng I-PRODUCT
+giá O
+dưới B-COMPARE
+7 B-PRICE
+triệu I-PRICE
+
+Mình O
+đang O
+tìm O
+tivi B-PRODUCT
+trên B-COMPARE
+12 B-PRICE
+triệu I-PRICE
+
+Có O
+máy B-PRODUCT
+ảnh I-PRODUCT
+nào O
+giá O
+dưới B-COMPARE
+10 B-PRICE
+triệu I-PRICE
+không O
+
+Mua O
+loa B-PRODUCT
+bluetooth I-PRODUCT
+dưới B-COMPARE
+1 B-PRICE
+triệu I-PRICE
+
+Mình O
+muốn O
+mua O
+điện B-PRODUCT
+thoại I-PRODUCT
+giá O
+cao B-COMPARE
+hơn I-COMPARE
+10 B-PRICE
+triệu I-PRICE
+
+Tôi O
+muốn O
+mua O
+điện B-PRODUCT
+thoại I-PRODUCT
+dưới B-COMPARE
+200 B-PRICE
+đô I-PRICE
+
+Tìm O
+máy B-PRODUCT
+lạnh I-PRODUCT
+giá O
+trên B-COMPARE
+10 B-PRICE
+triệu I-PRICE
+
+Có O
+tủ B-PRODUCT
+lạnh I-PRODUCT
+nào O
+dưới B-COMPARE
+5 B-PRICE
+triệu I-PRICE
+không O
+
+Tôi O
+cần O
+một O
+laptop B-PRODUCT
+trên B-COMPARE
+15 B-PRICE
+triệu I-PRICE
+
+Cho O
+hỏi O
+máy B-PRODUCT
+giặt I-PRODUCT
+dưới B-COMPARE
+300 B-PRICE
+đô I-PRICE
+có O
+không O
+
+Tìm O
+máy B-PRODUCT
+tính I-PRODUCT
+bảng I-PRODUCT
+giá O
+dưới B-COMPARE
+7 B-PRICE
+triệu I-PRICE
+
+Mình O
+đang O
+tìm O
+tivi B-PRODUCT
+trên B-COMPARE
+12 B-PRICE
+triệu I-PRICE
+
+Có O
+máy B-PRODUCT
+ảnh I-PRODUCT
+nào O
+giá O
+dưới B-COMPARE
+10 B-PRICE
+triệu I-PRICE
+không O
+
+Mua O
+loa B-PRODUCT
+bluetooth I-PRODUCT
+dưới B-COMPARE
+1 B-PRICE
+triệu I-PRICE
+
+Mình O
+muốn O
+mua O
+điện B-PRODUCT
+thoại I-PRODUCT
+giá O
+cao B-COMPARE
+hơn I-COMPARE
+10 B-PRICE
+triệu I-PRICE
+

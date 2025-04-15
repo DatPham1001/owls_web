@@ -1,0 +1,117 @@
+@prefix : <http://example.com/ontology#> .
+@prefix ex: <http://example.com/data#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+###########################################
+#            ONTOLOGY DEFINITIONS         #
+###########################################
+
+:Product a owl:Class .
+:Category a owl:Class .
+:Brand a owl:Class .
+
+:productName a owl:DatatypeProperty ;
+    rdfs:domain :Product ;
+    rdfs:range xsd:string .
+
+:productPrice a owl:DatatypeProperty ;
+    rdfs:domain :Product ;
+    rdfs:range xsd:decimal .
+
+:hasCategory a owl:ObjectProperty ;
+    rdfs:domain :Product ;
+    rdfs:range :Category .
+
+:hasBrand a owl:ObjectProperty ;
+    rdfs:domain :Product ;
+    rdfs:range :Brand .
+
+:categoryName a owl:DatatypeProperty ;
+    rdfs:domain :Category ;
+    rdfs:range xsd:string .
+
+:brandName a owl:DatatypeProperty ;
+    rdfs:domain :Brand ;
+    rdfs:range xsd:string .
+
+###########################################
+#              SAMPLE DATA                #
+###########################################
+
+# --- Categories ---
+ex:cat1 a :Category ;
+    :categoryName "Electronics" .
+
+ex:cat2 a :Category ;
+    :categoryName "Clothing" .
+
+# --- Brands ---
+ex:brand1 a :Brand ;
+    :brandName "TechCorp" .
+
+ex:brand2 a :Brand ;
+    :brandName "FashionX" .
+
+# --- Products ---
+ex:product1 a :Product ;
+    :productName "Smartphone X1" ;
+    :productPrice "699.99"^^xsd:decimal ;
+    :hasCategory ex:cat1 ;
+    :hasBrand ex:brand1 .
+
+ex:product2 a :Product ;
+    :productName "Laptop Pro 15" ;
+    :productPrice "1299.00"^^xsd:decimal ;
+    :hasCategory ex:cat1 ;
+    :hasBrand ex:brand1 .
+
+ex:product3 a :Product ;
+    :productName "Wireless Earbuds" ;
+    :productPrice "199.50"^^xsd:decimal ;
+    :hasCategory ex:cat1 ;
+    :hasBrand ex:brand1 .
+
+ex:product4 a :Product ;
+    :productName "Smartwatch S2" ;
+    :productPrice "249.00"^^xsd:decimal ;
+    :hasCategory ex:cat1 ;
+    :hasBrand ex:brand1 .
+
+ex:product5 a :Product ;
+    :productName "Men's Jacket" ;
+    :productPrice "89.99"^^xsd:decimal ;
+    :hasCategory ex:cat2 ;
+    :hasBrand ex:brand2 .
+
+ex:product6 a :Product ;
+    :productName "Women's Dress" ;
+    :productPrice "59.90"^^xsd:decimal ;
+    :hasCategory ex:cat2 ;
+    :hasBrand ex:brand2 .
+
+ex:product7 a :Product ;
+    :productName "Sneakers" ;
+    :productPrice "120.00"^^xsd:decimal ;
+    :hasCategory ex:cat2 ;
+    :hasBrand ex:brand2 .
+
+ex:product8 a :Product ;
+    :productName "Bluetooth Speaker" ;
+    :productPrice "89.00"^^xsd:decimal ;
+    :hasCategory ex:cat1 ;
+    :hasBrand ex:brand1 .
+
+ex:product9 a :Product ;
+    :productName "Baseball Cap" ;
+    :productPrice "25.00"^^xsd:decimal ;
+    :hasCategory ex:cat2 ;
+    :hasBrand ex:brand2 .
+
+ex:product10 a :Product ;
+    :productName "Tablet A7" ;
+    :productPrice "399.00"^^xsd:decimal ;
+    :hasCategory ex:cat1 ;
+    :hasBrand ex:brand1 .

@@ -1,0 +1,157 @@
+Token,Label
+Tôi,O
+muốn,O
+mua,O
+điện thoại,B-PRODUCT
+dưới,B-COMPARE
+200,B-PRICE
+đô,I-PRICE
+Tìm,O
+máy lạnh,B-PRODUCT
+giá,O
+trên,O-COMPARE
+10,B-PRICE
+triệu,I-PRICE
+Có,O
+tủ lạnh,B-PRODUCT
+nào,O
+dưới,B-COMPARE
+5,B-PRICE
+triệu,I-PRICE
+không,O
+Mua,O
+máy tính,B-PRODUCT
+giá,O
+trên,O-COMPARE
+500,B-PRICE
+nghìn,I-PRICE
+Tôi,O
+cần,O
+mua,O
+tivi,B-PRODUCT
+giá,O
+dưới,B-COMPARE
+5,B-PRICE
+triệu,I-PRICE
+Mua,O
+laptop,B-PRODUCT
+mới,O
+giá,O
+trên,O-COMPARE
+20,B-PRICE
+triệu,I-PRICE
+Tôi,O
+muốn,O
+mua,O
+điện thoại,B-PRODUCT
+giá,O
+trên,O-COMPARE
+5,B-PRICE
+triệu,I-PRICE
+Tìm,O
+máy tính,B-PRODUCT
+cũ,O
+giá,O
+dưới,B-COMPARE
+10,B-PRICE
+nghìn,I-PRICE
+Có,O
+tủ lạnh,B-PRODUCT
+mới,O
+giá,O
+trên,O-COMPARE
+10,B-PRICE
+triệu,I-PRICE
+Cần,O
+mua,O
+máy lạnh,B-PRODUCT
+giá,O
+dưới,B-COMPARE
+3,B-PRICE
+triệu,I-PRICE
+Tôi,O
+cần,O
+mua,O
+tủ lạnh,B-PRODUCT
+giá,O
+trên,O-COMPARE
+2,B-PRICE
+triệu,I-PRICE
+Mua,O
+máy tính,B-PRODUCT
+mới,O
+giá,O
+dưới,B-COMPARE
+15,B-PRICE
+nghìn,I-PRICE
+Tìm,O
+điện thoại,B-PRODUCT
+cũ,O
+giá,O
+trên,O-COMPARE
+1,B-PRICE
+triệu,I-PRICE
+Tôi,O
+muốn,O
+mua,O
+laptop,B-PRODUCT
+giá,O
+dưới,B-COMPARE
+10,B-PRICE
+nghìn,I-PRICE
+Mua,O
+máy lạnh,B-PRODUCT
+mới,O
+giá,O
+trên,O-COMPARE
+15,B-PRICE
+triệu,I-PRICE
+Tìm,O
+tủ lạnh,B-PRODUCT
+giá,O
+dưới,B-COMPARE
+5,B-PRICE
+triệu,I-PRICE
+Tôi,O
+muốn,O
+mua,O
+máy tính,B-PRODUCT
+giá,O
+trên,O-COMPARE
+2,B-PRICE
+triệu,I-PRICE
+Có,O
+tivi,B-PRODUCT
+mới,O
+giá,O
+dưới,B-COMPARE
+8,B-PRICE
+triệu,I-PRICE
+Mua,O
+điện thoại,B-PRODUCT
+mới,O
+giá,O
+trên,O-COMPARE
+12,B-PRICE
+triệu,I-PRICE
+Tìm,O
+laptop,B-PRODUCT
+giá,O
+dưới,B-COMPARE
+7,B-PRICE
+triệu,I-PRICE
+Tôi,O
+muốn,O
+mua,O
+máy lạnh,B-PRODUCT
+giá,O
+trên,O-COMPARE
+4,B-PRICE
+triệu,I-PRICE
+Mua,O
+máy tính,B-PRODUCT
+mới,O
+giá,O
+dưới,B-COMPARE
+12,B-PRICE
+triệu,I-PRICE
